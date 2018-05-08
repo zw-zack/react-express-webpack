@@ -11,4 +11,10 @@ import App from './App';
 // global styles
 import './style.scss';
 
+// const abc = require('../../results.js');
+
+// console.log(abc);
+
+// debugger;
+
 ReactDOM.render(<App />, document.getElementById('app'));
